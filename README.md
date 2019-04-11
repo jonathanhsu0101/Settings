@@ -19,3 +19,15 @@ node.js & npm & Git must be installed from command line
 Java Installation through OpenJDK
 
 $ sudo apt install openjdk-11-jdk
+
+# Ubuntu Software
+
+Docker
+
+Eclipse
+
+Chrome
+
+VS Code
+
+VLC
