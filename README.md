@@ -10,3 +10,6 @@ Vetur
 
 vscode-icons
 
+# Node & npm & Git
+
+node.js & npm & Git must be installed from command line
