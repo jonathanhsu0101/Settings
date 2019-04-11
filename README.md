@@ -16,7 +16,7 @@ node.js & npm & Git must be installed from command line
 
 # java
 
-Java Installation through OpenJDK
+Java must be installed from OpenJDK
 
 $ sudo apt install openjdk-11-jdk
 
