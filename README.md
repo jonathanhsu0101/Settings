@@ -31,3 +31,6 @@ Chrome
 VS Code
 
 VLC
+
+GitHub Desktop
+
