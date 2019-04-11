@@ -1,5 +1,3 @@
-# Settings
-
 # VS Code extensions
 
 Bracket Pair Colorizer 2
