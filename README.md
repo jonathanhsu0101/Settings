@@ -10,13 +10,29 @@ Vetur
 
 vscode-icons
 
-# Node & npm & Git
+# All listed below need sudo -i
 
-node.js & npm & Git must be installed from command line
+# Node & npm
 
 $ apt install nodejs
 
 $ apt install npm
+
+# @vue/cli
+
+$ npm install -g @vue/cli
+
+# nodemon, express, cors, body-parser, morgan, monk, joi
+
+Must be installed in ./server folder
+
+$ npm install $$$$
+
+# use Vue to create App
+
+$ vue create "App name" (e.g. ./client)
+
+# Git
 
 $ apt install git
 
@@ -32,11 +48,9 @@ Adding a new SSH key to your GitHub account
 
 # java
 
-Java must be installed from OpenJDK
-
 $ sudo apt install openjdk-11-jdk
 
-# Ubuntu Software
+# Installed from Ubuntu Software
 
 Docker
 
@@ -51,3 +65,5 @@ VLC
 GitHub Desktop
 
 Postman
+
+mongo33
