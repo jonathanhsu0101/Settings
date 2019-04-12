@@ -14,6 +14,22 @@ vscode-icons
 
 node.js & npm & Git must be installed from command line
 
+$ apt install nodejs
+
+$ apt install npm
+
+$ apt install git
+
+$ git config --global user.name "Your Name"
+
+$ git config --global user.email "youremail@domain.com"
+
+https://help.github.com/en/articles/connecting-to-github-with-ssh
+
+Generating a new SSH key and adding it to the ssh-agent
+
+Adding a new SSH key to your GitHub account
+
 # java
 
 Java must be installed from OpenJDK
