@@ -2,7 +2,7 @@
 
 Bracket Pair Colorizer 2
 
-Prettier (must see a "V")
+Prettier (must see a "V" beside Prettier at right-down corner)
 
 npm
 
