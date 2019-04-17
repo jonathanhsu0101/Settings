@@ -1,6 +1,10 @@
 # VS Code extensions
 
+Prettier (must see a V beside Prettier at right-down corner)
+
 Bracket Pair Colorizer 2
+
+Pitch Black Theme
 
 npm
 
@@ -8,29 +12,31 @@ npm Intellisense
 
 Vetur
 
-vscode-icons
+Material Icon Theme
 
-# All listed below need sudo -i
+# MongoDB
+
+must be installed according to official website
 
 # Node & npm
 
-$ apt install nodejs
+$ sudo apt install nodejs
 
-$ apt install npm
+$ sudo apt install npm
 
 # @vue/cli
 
-$ npm install -g @vue/cli
+$ sudo npm install -g @vue/cli
 
 # nodemon, express, cors, body-parser, morgan, monk, joi
 
 Must be installed in ./server folder
 
-$ npm install $$$$
+$ npm install $$$$ --save
 
 # use Vue to create App
 
-$ vue create "App name" (e.g. ./client)
+$ vue create "App name" (e.g. ./client) (DON'T CHOOSE "Linter / Formatter")
 
 # Git
 
@@ -66,4 +72,4 @@ GitHub Desktop
 
 Postman
 
-mongo33
+
