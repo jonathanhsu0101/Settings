@@ -4,7 +4,11 @@ Prettier (must see a V beside Prettier at right-down corner)
 
 Bracket Pair Colorizer 2
 
+<<<<<<< HEAD
 Pitch Black Theme
+=======
+Prettier (must see a "V" beside Prettier at right-down corner)
+>>>>>>> e26a172eae6d4bf1504c335d931ffe1b01221e6f
 
 npm
 
@@ -12,6 +16,11 @@ npm Intellisense
 
 Vetur
 
+<<<<<<< HEAD
+=======
+Pitch Black Theme
+
+>>>>>>> e26a172eae6d4bf1504c335d931ffe1b01221e6f
 Material Icon Theme
 
 # MongoDB
