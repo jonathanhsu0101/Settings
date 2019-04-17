@@ -2,13 +2,17 @@
 
 Bracket Pair Colorizer 2
 
+Prettier (must see a "V")
+
 npm
 
 npm Intellisense
 
 Vetur
 
-vscode-icons
+Pitch Black Theme
+
+Material Icon Theme
 
 # All listed below need sudo -i
 
