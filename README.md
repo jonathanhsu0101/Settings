@@ -14,6 +14,10 @@ Vetur
 
 Material Icon Theme
 
+# Chrome
+
+$ sudo apt install chrome
+
 # MongoDB
 
 must be installed according to official website
@@ -61,8 +65,6 @@ $ sudo apt install openjdk-11-jdk
 Docker
 
 Eclipse
-
-Chrome
 
 VS Code
 
