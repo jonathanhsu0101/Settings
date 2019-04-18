@@ -1,4 +1,4 @@
-# VS Code extensions
+# VS Code extensions 
 
 Prettier (must see a V beside Prettier at right-down corner)
 
@@ -21,6 +21,10 @@ download & install chrome from FireFox
 # MongoDB
 
 must be installed according to official website
+
+but use "$ sudo apt-get install -y mongodb"
+
+don't use "$ sudo apt-get install -y mongodb-org"
 
 # Node & npm
 
@@ -65,12 +69,6 @@ $ sudo apt install openjdk-11-jdk
 Docker
 
 Eclipse
-
-VS Code
-
-VLC
-
-GitHub Desktop
 
 Postman
 
