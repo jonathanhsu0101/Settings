@@ -16,7 +16,7 @@ Material Icon Theme
 
 # Chrome
 
-$ sudo apt install chrome
+download & install chrome from FireFox
 
 # MongoDB
 
