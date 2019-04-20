@@ -1,3 +1,19 @@
+# Chrome
+
+download & install chrome from FireFox
+
+# vi ~/.bashrc
+
+find if [ "$color_prompt" = yes ], insert '\n' before '\$'
+
+# Chinese input
+
+System Settings > Input Method > Traditional Chinese > + Chewing
+
+# Move Panel from bottom to left
+
+right-click on Panel > Modify Panel > Move Panel
+
 # VS Code extensions 
 
 Prettier (must see a V beside Prettier at right-down corner)
@@ -13,10 +29,6 @@ npm Intellisense
 Vetur
 
 Material Icon Theme
-
-# Chrome
-
-download & install chrome from FireFox
 
 # MongoDB
 
