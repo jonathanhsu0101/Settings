@@ -80,6 +80,8 @@ https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19
 
 # Install Microsoft Fonts
 
-Menu > Administration > Software Manager.
+Menu > Administration > Software Manager
 
-install Ttf-mscorefonts-installer.
+install Ttf-mscorefonts-installer
+
+In VSCode, choose 'Andale Mono' font
