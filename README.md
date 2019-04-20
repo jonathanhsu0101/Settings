@@ -77,3 +77,9 @@ $ sudo apt install openjdk-11-jdk
 # docker
 
 https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/
+
+# Install Microsoft Fonts
+
+Menu > Administration > Software Manager.
+
+install Ttf-mscorefonts-installer.
