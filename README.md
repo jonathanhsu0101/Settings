@@ -14,6 +14,10 @@ System Settings > Input Method > Traditional Chinese > + Chewing
 
 right-click on Panel > Modify Panel > Move Panel
 
+# Install VSCode
+
+Software Manager > search visual studio code > install
+
 # VS Code extensions 
 
 Prettier (must see a V beside Prettier at right-down corner)
@@ -87,7 +91,3 @@ Menu > Administration > Software Manager
 install Ttf-mscorefonts-installer, Visual Studio Code, Postman
 
 In VSCode, choose 'Andale Mono' font
-
-# Install VSCode
-
-Synaptic Package Manager > search visual studio code > mark install > apply
