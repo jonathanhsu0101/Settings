@@ -1,3 +1,13 @@
+# install snap
+
+$ apt install snapd
+
+# install from snap
+
+$ sudo snap install code --classic
+
+$ sudo snap install postman
+
 # VS Code extensions 
 
 Prettier (must see a V beside Prettier at right-down corner)
@@ -64,12 +74,6 @@ Adding a new SSH key to your GitHub account
 
 $ sudo apt install openjdk-11-jdk
 
-# Installed from Ubuntu Software
+# docker
 
-Docker
-
-Eclipse
-
-Postman
-
-
+https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/
