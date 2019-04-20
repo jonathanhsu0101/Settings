@@ -1,13 +1,3 @@
-# install snap
-
-$ apt install snapd
-
-# install from snap
-
-$ sudo snap install code --classic
-
-$ sudo snap install postman
-
 # VS Code extensions 
 
 Prettier (must see a V beside Prettier at right-down corner)
@@ -78,10 +68,14 @@ $ sudo apt install openjdk-11-jdk
 
 https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/
 
-# Install Microsoft Fonts
+# Install Microsoft Fonts, VSCode, Postman
 
 Menu > Administration > Software Manager
 
-install Ttf-mscorefonts-installer
+install Ttf-mscorefonts-installer, Visual Studio Code, Postman
 
 In VSCode, choose 'Andale Mono' font
+
+# Install VSCode
+
+Synaptic Package Manager > search visual studio code > mark install > apply
