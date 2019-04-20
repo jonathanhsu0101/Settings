@@ -36,7 +36,7 @@ Material Icon Theme
 
 # MongoDB
 
-must be installed according to official website
+must follow https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 
 but use "$ sudo apt-get install -y mongodb"
 
