@@ -14,13 +14,21 @@ System Settings > Input Method > Traditional Chinese > + Chewing
 
 right-click on Panel > Modify Panel > Move Panel
 
-# Install VSCode
+# Install Microsoft Fonts, VSCode, Postman
 
-Software Manager > search visual studio code > install
+Menu > Administration > Software Manager
+
+install Visual Studio Code, Ttf-mscorefonts-installer, Postman
+
+Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8,
+
+cursorLineEnd --> F8,
+
+settings > Font Size --> 20, Tab Size --> 2, Font Family --> Andale Mono
 
 # VS Code extensions 
 
-Prettier (must see a V beside Prettier at right-down corner)
+Prettier
 
 Bracket Pair Colorizer 2
 
@@ -86,10 +94,3 @@ $ sudo apt install openjdk-11-jdk
 
 https://computingforgeeks.com/install-docker-and-docker-compose-on-linux-mint-19/
 
-# Install Microsoft Fonts, VSCode, Postman
-
-Menu > Administration > Software Manager
-
-install Ttf-mscorefonts-installer, Visual Studio Code, Postman
-
-In VSCode, choose 'Andale Mono' font
