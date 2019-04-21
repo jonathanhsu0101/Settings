@@ -72,6 +72,8 @@ $ git config --global user.email "youremail@domain.com"
 
 https://help.github.com/en/articles/connecting-to-github-with-ssh
 
+don't use root account
+
 Generating a new SSH key and adding it to the ssh-agent
 
 Adding a new SSH key to your GitHub account
