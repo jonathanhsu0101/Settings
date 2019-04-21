@@ -20,11 +20,11 @@ Menu > Administration > Software Manager
 
 install Visual Studio Code, Ttf-mscorefonts-installer, Postman
 
-Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8,
-
-cursorLineEnd --> F8,
+Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --> F8,
 
 settings > Font Size --> 20, Tab Size --> 2, Font Family --> Andale Mono
+
+settings > Extensions > Prettier > Single Quote --> V, Eslint Integration --> V
 
 # VS Code extensions 
 
