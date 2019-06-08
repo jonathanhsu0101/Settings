@@ -1,3 +1,7 @@
+# switch to root
+
+$ sudo -s
+
 # Chrome
 
 download & install chrome from FireFox
