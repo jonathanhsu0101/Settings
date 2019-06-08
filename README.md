@@ -42,6 +42,8 @@ Vetur
 
 Material Icon Theme
 
+Svelte
+
 # MongoDB
 
 must follow https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
