@@ -79,11 +79,15 @@ $ vue create "App name" (e.g. ./client) (DON'T CHOOSE "Linter / Formatter")
 # Svelte, npx, degit
 
 $ sudo npm i -g npx
+
 $ sudo apt install degit
 
 $ npx degit sveltejs/template my-svelte-project
+
 $ cd my-svelte-project
+
 $ npm install --no-optional
+
 $ npm run dev
 
 # Git
