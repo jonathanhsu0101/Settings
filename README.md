@@ -16,9 +16,9 @@ install Snapd
 
 $ sudo snap install --classic code
 
-Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --> F8,
+Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --> F8, Copy Line Down --> Ctrl + Alt + DownArrow, Copy Line Up --> Ctrl + Alt + UpArrow
 
-settings > Font Size --> 20, Tab Size --> 2, Font Family --> Andale Mono
+settings > Font Size --> 20, Tab Size --> 2, Multi Cursor Modifier --> ctrlCmd
 
 settings > Extensions > Prettier > Single Quote --> V, Eslint Integration --> V
 
@@ -58,6 +58,8 @@ Material Icon Theme
 
 Svelte
 
+Svelte Intellisense
+
 # MongoDB
 
 must follow https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
@@ -82,10 +84,6 @@ $ vue create "App name" (e.g. ./client) (DON'T CHOOSE "Linter / Formatter")
 
 # Svelte, npx, degit
 
-$ sudo npm i -g npx
-
-$ sudo apt install degit
-
 $ npx degit sveltejs/template my-svelte-project
 
 $ cd my-svelte-project
@@ -93,6 +91,12 @@ $ cd my-svelte-project
 $ npm install --no-optional
 
 $ npm run dev
+
+--------------------------------------
+
+$ sudo npm i -g npx
+
+$ sudo apt install degit
 
 # Git
 
