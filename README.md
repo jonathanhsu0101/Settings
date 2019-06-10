@@ -6,6 +6,30 @@ $ sudo -s
 
 download & install chrome from FireFox
 
+# Install Snapd
+
+Menu > Administration > Software Manager
+
+install Snapd
+
+# Install VSCode
+
+$ sudo snap install --classic code
+
+Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --> F8,
+
+settings > Font Size --> 20, Tab Size --> 2, Font Family --> Andale Mono
+
+settings > Extensions > Prettier > Single Quote --> V, Eslint Integration --> V
+
+# Node & npm
+
+$ sudo snap install node --classic --channel=8
+
+# Install Postman
+
+$ sudo snap install postman
+
 # vi ~/.bashrc
 
 find if [ "$color_prompt" = yes ], insert '\n' before '\$'
@@ -18,18 +42,6 @@ System Settings > Input Method > Traditional Chinese > + Chewing
 
 right-click on Panel > Modify Panel > Move Panel
 
-# Install Microsoft Fonts, VSCode, Postman
-
-Menu > Administration > Software Manager
-
-install Visual Studio Code, Ttf-mscorefonts-installer, Postman
-
-Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --> F8,
-
-settings > Font Size --> 20, Tab Size --> 2, Font Family --> Andale Mono
-
-settings > Extensions > Prettier > Single Quote --> V, Eslint Integration --> V
-
 # VS Code extensions 
 
 Prettier
@@ -39,8 +51,6 @@ Bracket Pair Colorizer 2
 Pitch Black Theme
 
 npm
-
-npm Intellisense
 
 Vetur
 
@@ -55,12 +65,6 @@ must follow https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 but use "$ sudo apt-get install -y mongodb"
 
 don't use "$ sudo apt-get install -y mongodb-org"
-
-# Node & npm
-
-$ sudo apt install nodejs
-
-$ sudo apt install npm
 
 # @vue/cli
 
