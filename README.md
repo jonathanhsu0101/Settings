@@ -18,9 +18,7 @@ $ sudo snap install --classic code
 
 Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --> F8, Copy Line Down --> Ctrl + Alt + DownArrow, Copy Line Up --> Ctrl + Alt + UpArrow
 
-settings > Font Size --> 20, Tab Size --> 2, Multi Cursor Modifier --> ctrlCmd
-
-settings > Extensions > Prettier > Single Quote --> V, Eslint Integration --> V
+settings > Auto Save --> afterDelay, Auto Save Delay --> 2000, Font Size --> 20, Tab Size --> 2, Multi Cursor Modifier --> ctrlCmd, Word Warp --> on, Format On Paste --> v, Format On Save --> v, Format On Type --> v, Color Theme --> Pitch Black, Icon Theme --> material-icon-theme, Zoom Level --> 2, Prettier: Tslint Integration --> v, Single Quote --> v, Eslint Integration --> v, Enable Smart Commit --> v, Git > Autofetch --> v, Confirm Sync --> no v
 
 # Node & npm
 
