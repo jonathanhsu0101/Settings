@@ -20,6 +20,8 @@ Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --
 
 settings > Auto Save --> afterDelay, Auto Save Delay --> 2000, Font Size --> 20, Tab Size --> 2, Multi Cursor Modifier --> ctrlCmd, Word Warp --> on, Format On Paste --> v, Format On Save --> v, Format On Type --> v, Color Theme --> Pitch Black, Icon Theme --> material-icon-theme, Zoom Level --> 2, Prettier: Tslint Integration --> v, Single Quote --> v, Eslint Integration --> v, Enable Smart Commit --> v, Git > Autofetch --> v, Confirm Sync --> no v
 
+VS Code extensions: Prettier, Bracket Pair Colorizer 2, Pitch Black Theme, npm, Vetur, Material Icon Theme, Svelte, Svelte Intellisense
+
 # Node & npm
 
 $ sudo snap install node --classic --channel=8
@@ -39,24 +41,6 @@ System Settings > Input Method > Traditional Chinese > + Chewing
 # Move Panel from bottom to left
 
 right-click on Panel > Modify Panel > Move Panel
-
-# VS Code extensions 
-
-Prettier
-
-Bracket Pair Colorizer 2
-
-Pitch Black Theme
-
-npm
-
-Vetur
-
-Material Icon Theme
-
-Svelte
-
-Svelte Intellisense
 
 # MongoDB
 
