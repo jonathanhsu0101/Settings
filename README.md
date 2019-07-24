@@ -1,3 +1,7 @@
+# disable alt-ctrl-up and alt-ctrl-down hijack
+
+System Settings > Keyboard > Shortcuts > General --> Go to "Show the window selection screen" and "Show the workspace selection screen", double click the shortcuts, remove them using backspace.
+
 # switch to root
 
 $ sudo -s
