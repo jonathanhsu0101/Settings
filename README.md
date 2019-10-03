@@ -6,7 +6,7 @@ search & download & install "chrome beta" from FireFox
 
 System Settings > Input Method > choose "iBus" > Traditional Chinese > + Chewing
 
-# Move Panel from bottom to left
+# Move Panel (Taskbar) from bottom to left
 
 right-click on Panel > Modify Panel > Move Panel
 
