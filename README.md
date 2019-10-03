@@ -1,7 +1,3 @@
-# disable alt-ctrl-up and alt-ctrl-down hijack
-
-System Settings > Keyboard > Shortcuts > General --> Go to "Show the window selection screen" and "Show the workspace selection screen", double click the shortcuts, remove them using backspace.
-
 # Chinese input
 
 System Settings > Input Method > choose "iBus" > Traditional Chinese > + Chewing
@@ -9,6 +5,10 @@ System Settings > Input Method > choose "iBus" > Traditional Chinese > + Chewing
 # Move Panel from bottom to left
 
 right-click on Panel > Modify Panel > Move Panel
+
+# vi ~/.bashrc
+
+find if [ "$color_prompt" = yes ], insert '\n' before '\\$'
 
 # switch to root
 
@@ -40,9 +40,9 @@ Extensions --> Install Settings Sync --> Login with GitHub --> Shift + Alt + D (
 
 Keyboard Shortcuts > Go to Next Problem in Files --> Ctrl + F8, cursorLineEnd --> F8, Copy Line Down --> Ctrl + Alt + DownArrow, Copy Line Up --> Ctrl + Alt + UpArrow
 
-settings > Auto Save --> afterDelay, Auto Save Delay --> 2000, Font Size --> 20, Tab Size --> 2, Multi Cursor Modifier --> ctrlCmd, Word Warp --> on, Format On Paste --> v, Format On Save --> v, Format On Type --> v, Color Theme --> Pitch Black, Icon Theme --> material-icon-theme, Zoom Level --> 2, Prettier: Tslint Integration --> v, Single Quote --> v, Eslint Integration --> v, Enable Smart Commit --> v, Git > Autofetch --> v, Confirm Sync --> no v
+# disable alt-ctrl-up and alt-ctrl-down hijack
 
-VS Code extensions: Prettier, Bracket Pair Colorizer 2, Pitch Black Theme, npm, Vetur, Material Icon Theme, Svelte, Svelte Intellisense
+System Settings > Keyboard > Shortcuts > General --> Go to "Show the window selection screen" and "Show the workspace selection screen", double click the shortcuts, remove them using backspace.
 
 # Node & npm
 
@@ -52,13 +52,11 @@ $ sudo snap install node --classic --channel=8
 
 $ sudo snap install postman
 
-# vi ~/.bashrc
-
-find if [ "$color_prompt" = yes ], insert '\n' before '\\$'
-
 # create VS Code & Postman icons
 
-right click Menu > Configure > Menu > Open the menu editor
+$ which code (or postman)
+
+right click Menu > Configure > Menu > Open the menu editor (click on rocket icon to change icon)
 
 # MongoDB
 
