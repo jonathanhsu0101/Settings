@@ -12,9 +12,11 @@ download & install chrome from FireFox
 
 # Install Snapd
 
-Menu > Administration > Software Manager
+$ apt update
 
-install Snapd
+$ apt upgrade
+
+$ apt install snapd
 
 # Install VSCode
 
