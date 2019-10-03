@@ -2,13 +2,21 @@
 
 System Settings > Keyboard > Shortcuts > General --> Go to "Show the window selection screen" and "Show the workspace selection screen", double click the shortcuts, remove them using backspace.
 
+# Chinese input
+
+System Settings > Input Method > choose "iBus" > Traditional Chinese > + Chewing
+
+# Move Panel from bottom to left
+
+right-click on Panel > Modify Panel > Move Panel
+
 # switch to root
 
 $ sudo -s
 
-# Chrome
+# Install Chrome
 
-download & install chrome from FireFox
+search & download & install "chrome beta" from FireFox
 
 # Install Snapd
 
@@ -17,6 +25,8 @@ $ apt update
 $ apt upgrade
 
 $ apt install snapd
+
+https://www.addictivetips.com/ubuntu-linux-tips/enable-snap-package-support-linux-mint/
 
 # Install VSCode
 
@@ -41,14 +51,6 @@ $ sudo snap install postman
 # vi ~/.bashrc
 
 find if [ "$color_prompt" = yes ], insert '\n' before '\$'
-
-# Chinese input
-
-System Settings > Input Method > Traditional Chinese > + Chewing
-
-# Move Panel from bottom to left
-
-right-click on Panel > Modify Panel > Move Panel
 
 # create VS Code & Postman icons
 
