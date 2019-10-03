@@ -38,11 +38,11 @@ $ sudo snap refresh
 
 # Git
 
-$ apt install git
+$ sudo apt install git
 
-$ git config --global user.name "Your Name"
+$ sudo git config --global user.name "Your Name"
 
-$ git config --global user.email "youremail@domain.com"
+$ sudo git config --global user.email "youremail@domain.com"
 
 https://help.github.com/en/articles/connecting-to-github-with-ssh
 
