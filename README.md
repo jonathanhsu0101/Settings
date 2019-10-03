@@ -54,7 +54,7 @@ $ sudo snap install postman
 
 # vi ~/.bashrc
 
-find if [ "$color_prompt" = yes ], insert '\n' before '\$'
+find if [ "$color_prompt" = yes ], insert '\n' before '\\$'
 
 # create VS Code & Postman icons
 
