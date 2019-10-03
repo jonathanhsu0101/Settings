@@ -26,11 +26,11 @@ $ apt upgrade
 
 $ apt install snapd
 
+https://www.addictivetips.com/ubuntu-linux-tips/enable-snap-package-support-linux-mint/
+
 # Snapd update
 
 $ sudo snap refresh
-
-https://www.addictivetips.com/ubuntu-linux-tips/enable-snap-package-support-linux-mint/
 
 # Install VSCode
 
