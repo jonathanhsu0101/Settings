@@ -70,6 +70,12 @@ $ which code (or postman)
 
 right click Menu > Configure > Menu > Open the menu editor (click on rocket icon to change icon)
 
+# remove unwanted favorites icon from menu (and put it in)
+
+drag it out
+
+drag it in
+
 # disable alt-ctrl-up and alt-ctrl-down hijack
 
 System Settings > Keyboard > Shortcuts > General --> Go to "Show the window selection screen" and "Show the workspace selection screen", double click the shortcuts, remove them using backspace.
