@@ -131,3 +131,31 @@ $ npm run dev
 $ sudo npm i -g npx
 
 $ sudo apt install degit
+
+---------------------------------------
+
+/home/steven/Documents/GitHub/project -->
+
+/home/steven/Documents/GitHub/project/emoji-weather
+/home/steven/Documents/GitHub/project/message-board
+/home/steven/Documents/GitHub/project/Othello
+/home/steven/Documents/GitHub/project/reddit-clone
+/home/steven/Documents/GitHub/project/restful-shop
+/home/steven/Documents/GitHub/project/sandwich
+/home/steven/Documents/GitHub/project/score-counter
+/home/steven/Documents/GitHub/project/svelte-shopping-app
+/home/steven/Documents/GitHub/project/to-do-list
+
+/home/steven/Documents/GitHub/react-class -->
+
+/home/steven/Documents/GitHub/react-class/http-blog
+/home/steven/Documents/GitHub/react-class/react-complete
+/home/steven/Documents/GitHub/react-class/react-complete-guide
+/home/steven/Documents/GitHub/react-class/react-complete-guide-106
+/home/steven/Documents/GitHub/react-class/react-complete-guide-144
+/home/steven/Documents/GitHub/react-class/react-complete-guide-213
+/home/steven/Documents/GitHub/react-class/react-complete-guide-using-hooks
+/home/steven/Documents/GitHub/react-class/routing--assignment-problem
+/home/steven/Documents/GitHub/react-class/Fabonacci
+/home/steven/Documents/GitHub/react-class/lifecycle-creation-learning-card.pdf
+/home/steven/Documents/GitHub/react-class/lifecycle-update-external-learning-card.pdf
