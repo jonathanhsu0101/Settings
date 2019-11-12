@@ -134,6 +134,8 @@ $ sudo apt install degit
 
 ---------------------------------------
 
+/home/steven/Documents/GitHub/leetcode
+
 /home/steven/Documents/GitHub/project -->
 
 /home/steven/Documents/GitHub/project/emoji-weather
@@ -145,6 +147,7 @@ $ sudo apt install degit
 /home/steven/Documents/GitHub/project/score-counter
 /home/steven/Documents/GitHub/project/svelte-shopping-app
 /home/steven/Documents/GitHub/project/to-do-list
+/home/steven/Documents/GitHub/project/emoji-weather
 
 /home/steven/Documents/GitHub/react-class -->
 
